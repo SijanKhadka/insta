@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#logoimg{
+    width: 25em;
+    height: 25em;
+}
+
+#logo , #search{
+    margin-top: 1em;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    height: 2em;
+}
